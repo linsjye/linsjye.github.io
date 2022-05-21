@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 士傑&#39;s Blog</title>
+    <link>https://linsjye.github.io/categories/</link>
+    <description>Recent content in Categories on 士傑&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 May 2022 17:34:00 +0800</lastBuildDate><atom:link href="https://linsjye.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magic</title>
+      <link>https://linsjye.github.io/categories/magic/</link>
+      <pubDate>Sat, 21 May 2022 17:34:00 +0800</pubDate>
+      
+      <guid>https://linsjye.github.io/categories/magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://linsjye.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://linsjye.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
